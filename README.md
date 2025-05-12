@@ -30,7 +30,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/covid-analysis.git
+git clone https://github.com/prollygotspiked/covid-analysis.git
 cd covid-analysis
 Install the required libraries:
 

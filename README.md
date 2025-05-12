@@ -30,7 +30,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/prollygotspiked/covid-analysis.git
+git clone https://github.com/prollygotspiked/COVID-19-Global-Data-Tracker-Project.-.git
 cd covid-analysis
 Install the required libraries:
 
